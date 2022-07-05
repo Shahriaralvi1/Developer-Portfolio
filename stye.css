@@ -59,7 +59,7 @@ h2 {
 }
 
 .exprience-item {
-  box-shadow: 10px 10px 35px olive;
+
   padding-left: 10px;
   width: 40%;
   margin-left: 5%;
@@ -70,10 +70,12 @@ h2 {
 
 #junior-developer {
   border-left: 8px solid orangered;
+  box-shadow: 10px 10px 35px orange
 }
 
 #educational-stream {
   border-left: 8px solid olive;
+  box-shadow: 10px 10px 35px olive;
 }
 
 footer p {
